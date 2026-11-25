@@ -1,0 +1,6 @@
+{
+  "name": "商品折扣價格試算器",
+  "description": "輸入原價與折數，快速算出優惠後金額的純前端商品折扣試算器。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
